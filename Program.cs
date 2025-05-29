@@ -11,8 +11,10 @@ internal class Program
         Console.WriteLine("Múltiples de 7:");
         Console.WriteLine(string.Join(", ", multiples));
         Console.WriteLine("Total de nombres: " + multiples.Count);
-        System.Console.WriteLine("Fet per [El teu nom aquí]");
-        Console.WriteLine("Data: " + DateTime.Now.ToString("dd/MM/yyyy"));
+        for (int i = 0; i < limit; i++)
+        {
+            System.Console.WriteLine("hola");
+        }
     }
 }
 
