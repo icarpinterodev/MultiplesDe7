@@ -1,0 +1,14 @@
+C:\Users\Polochik\Documents\Insti_campalans\Entorns Desenvolupament\A06 Git i altres\MultiplesDe7\bin\Debug\net9.0\MultiplesDe7.exe
+C:\Users\Polochik\Documents\Insti_campalans\Entorns Desenvolupament\A06 Git i altres\MultiplesDe7\bin\Debug\net9.0\MultiplesDe7.deps.json
+C:\Users\Polochik\Documents\Insti_campalans\Entorns Desenvolupament\A06 Git i altres\MultiplesDe7\bin\Debug\net9.0\MultiplesDe7.runtimeconfig.json
+C:\Users\Polochik\Documents\Insti_campalans\Entorns Desenvolupament\A06 Git i altres\MultiplesDe7\bin\Debug\net9.0\MultiplesDe7.dll
+C:\Users\Polochik\Documents\Insti_campalans\Entorns Desenvolupament\A06 Git i altres\MultiplesDe7\bin\Debug\net9.0\MultiplesDe7.pdb
+C:\Users\Polochik\Documents\Insti_campalans\Entorns Desenvolupament\A06 Git i altres\MultiplesDe7\obj\Debug\net9.0\MultiplesDe7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polochik\Documents\Insti_campalans\Entorns Desenvolupament\A06 Git i altres\MultiplesDe7\obj\Debug\net9.0\MultiplesDe7.AssemblyInfoInputs.cache
+C:\Users\Polochik\Documents\Insti_campalans\Entorns Desenvolupament\A06 Git i altres\MultiplesDe7\obj\Debug\net9.0\MultiplesDe7.AssemblyInfo.cs
+C:\Users\Polochik\Documents\Insti_campalans\Entorns Desenvolupament\A06 Git i altres\MultiplesDe7\obj\Debug\net9.0\MultiplesDe7.csproj.CoreCompileInputs.cache
+C:\Users\Polochik\Documents\Insti_campalans\Entorns Desenvolupament\A06 Git i altres\MultiplesDe7\obj\Debug\net9.0\MultiplesDe7.dll
+C:\Users\Polochik\Documents\Insti_campalans\Entorns Desenvolupament\A06 Git i altres\MultiplesDe7\obj\Debug\net9.0\refint\MultiplesDe7.dll
+C:\Users\Polochik\Documents\Insti_campalans\Entorns Desenvolupament\A06 Git i altres\MultiplesDe7\obj\Debug\net9.0\MultiplesDe7.pdb
+C:\Users\Polochik\Documents\Insti_campalans\Entorns Desenvolupament\A06 Git i altres\MultiplesDe7\obj\Debug\net9.0\MultiplesDe7.genruntimeconfig.cache
+C:\Users\Polochik\Documents\Insti_campalans\Entorns Desenvolupament\A06 Git i altres\MultiplesDe7\obj\Debug\net9.0\ref\MultiplesDe7.dll
